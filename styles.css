@@ -1,0 +1,194 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #e0e0e0;
+    color: #333;
+}
+
+.resume {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    border: 1px solid #ddd;
+}
+
+.header {
+    text-align: center;
+    border-bottom: 2px solid #444;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+.header h1 {
+    margin: 0;
+    font-size: 2.5rem;
+    color: #444;
+}
+
+.header p {
+    margin: 5px 0;
+    color: #666;
+}
+
+.section {
+    margin-top: 20px;
+}
+
+.section h2 {
+    font-size: 1.75rem;
+    color: #444;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 5px;
+}
+
+.section ul {
+    padding-left: 20px;
+}
+
+ul {
+    padding: 0;
+    list-style-type: disc;
+}
+
+ul li {
+    margin-bottom: 10px;
+    font-size: 1.1rem;
+    color: #555;
+}
+
+body {
+    background-color: #f0f4f7;
+}
+
+h1, h2 {
+    font-family: 'Georgia', serif;
+}
+
+p, ul li {
+    font-family: 'Verdana', sans-serif;
+}
+
+.resume {
+    background-color: #f9f9f9;
+    line-height: 1.6;
+}
+
+.resume h1 {
+    color: #222;
+    font-weight: bold;
+}
+
+.resume h2 {
+    color: #333;
+}
+
+ul li:before {
+    content: "•";
+    color: #333;
+    margin-right: 8px;
+}
+
+p {
+    font-size: 1rem;
+}
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #e0e0e0;
+    color: #333;
+}
+
+.resume {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    border: 1px solid #ddd;
+}
+
+.header {
+    text-align: center;
+    border-bottom: 2px solid #444;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+.header h1 {
+    margin: 0;
+    font-size: 2.5rem;
+    color: #444;
+}
+
+.header p {
+    margin: 5px 0;
+    color: #666;
+}
+
+.section {
+    margin-top: 20px;
+}
+
+.section h2 {
+    font-size: 1.75rem;
+    color: #444;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 5px;
+}
+
+.section ul {
+    padding-left: 20px;
+}
+
+ul {
+    padding: 0;
+    list-style-type: disc;
+}
+
+ul li {
+    margin-bottom: 10px;
+    font-size: 1.1rem;
+    color: #555;
+}
+
+body {
+    background-color: #f0f4f7;
+}
+
+h1, h2 {
+    font-family: 'Georgia', serif;
+}
+
+p, ul li {
+    font-family: 'Verdana', sans-serif;
+}
+
+.resume {
+    background-color: #f9f9f9;
+    line-height: 1.6;
+}
+
+.resume h1 {
+    color: #222;
+    font-weight: bold;
+}
+
+.resume h2 {
+    color: #333;
+}
+
+ul li:before {
+    content: "•";
+    color: #333;
+    margin-right: 8px;
+}
+
+p {
+    font-size: 1rem;
+}
